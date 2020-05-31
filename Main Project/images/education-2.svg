@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.0375in" height="0.109945in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3037.5 109.94"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:black}
+    .fil0 {fill:#FF9900}
+    .fil2 {fill:#FF9900}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-0.82" y="50.15" width="3037.5" height="9.68"/>
+  <g id="_2306075196544">
+   <circle class="fil1" cx="275" cy="55" r="51.35"/>
+   <circle class="fil2" cx="275" cy="55" r="35.17"/>
+   <circle class="fil3" cx="275" cy="55" r="19.02"/>
+  </g>
+  <g id="_2306075192640">
+   <circle class="fil1" cx="1525" cy="55" r="51.35"/>
+   <circle class="fil2" cx="1525" cy="55" r="35.17"/>
+   <circle class="fil3" cx="1525" cy="55" r="19.02"/>
+  </g>
+  <g id="_2306075180480">
+   <circle class="fil1" cx="2780" cy="55" r="51.35"/>
+   <circle class="fil2" cx="2780" cy="55" r="35.17"/>
+   <circle class="fil3" cx="2780" cy="55" r="19.02"/>
+  </g>
+ </g>
+</svg>

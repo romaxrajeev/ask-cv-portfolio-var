@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="415.6" viewBox="0 0 35 415.6">
+  <g id="Group_20" data-name="Group 20" transform="translate(-26 -1071.412)">
+    <line id="Line_5" data-name="Line 5" y1="412.575" x2="3.459" transform="translate(41.5 1072.925)" fill="none" stroke="#f90" stroke-linecap="round" stroke-width="3"/>
+    <!--Bottom-->
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(26 1428) rotate(-90)" fill="#f90" stroke="#fff" stroke-width="4">
+      <circle cx="0" cy="16" r="16" stroke="none"/>
+      <circle cx="0" cy="16" r="14" fill="none"/>
+    </g>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="-11" cy="5" r="5" transform="translate(37 1417) rotate(-90)"/>
+    <!-- Center -->
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(27 1274) rotate(-90)" fill="#f90" stroke="#fff" stroke-width="4">
+      <ellipse cx="0" cy="16.5" rx="16" ry="16.5" stroke="none"/>
+      <ellipse cx="0" cy="16.5" rx="14" ry="14.5" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_13" data-name="Ellipse 13" cx="-11" cy="5.5" rx="5" ry="5.5" transform="translate(38 1263) rotate(-90)"/>
+    
+    <!--Top-->
+    <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(29 1120) rotate(-90)" fill="#f90" stroke="#fff" stroke-width="4">
+      <circle cx="-2" cy="16" r="16" stroke="none"/>
+      <circle cx="-2" cy="16" r="14" fill="none"/>
+    </g>    
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="-13" cy="5" r="5" transform="translate(40 1109) rotate(-90)"/>
+
+  </g>
+</svg>
